@@ -3,7 +3,6 @@ html {
   width: 100%;
 }
 
-/* Add a black background color to the top navigation */
 .titlebar {
   font-size: 40px;
   text-align: center;
@@ -39,7 +38,6 @@ html {
   animation: epicnavbargogo 4.5s;
 }
 
-/* Style the links inside the navigation bar */
 
 .topnav ul {
   list-style: none;
@@ -84,14 +82,12 @@ html {
        transform: translateY(0);}
 }
 
-/* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ddd;
   color: black;
   box-shadow: inset 0px 0px 0px 5px #70e2ff;
 }
 
-/* Add a color to the active/current link */
 .topnav a.active {
   background-color: #a5e3cd;
   color: white;
